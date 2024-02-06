@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in</name>
+   <tag></tag>
+   <elementGuidId>7ce8c23c-7b4d-45fe-aacc-53b2f5658a03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.nav-action-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-ya-signin']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e612cbb-b294-4c58-bc23-6604cfe5d013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-action-inner</value>
+      <webElementGuid>6a1505cc-34f7-428c-baf9-aea2ca03efef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>a872c0fe-a143-4c05-b696-b26ee3e3e8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-ya-signin&quot;)/a[@class=&quot;nav-action-signin-button&quot;]/span[@class=&quot;nav-action-inner&quot;]</value>
+      <webElementGuid>e129141e-51bc-4235-8428-398db381926f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-ya-signin']/a/span</value>
+      <webElementGuid>ff4affd9-4c7b-4826-8695-86294a51b526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/a/span</value>
+      <webElementGuid>ab052128-f547-41f2-9384-37a43b296e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>e46648b2-2d55-4103-8788-85c71e1c70f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

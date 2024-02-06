@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login</description>
+   <name>TC_001_Amazon_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c10dde9a-3cf6-4f67-9b12-2e0d445c6c51</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>72601bf1-661b-4d7a-9d0b-155307ca2547</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Amazon_login_credientials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f0e63a6-2909-4dc0-b959-61ee7c31a2b0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52e510d3-8cf0-4357-9adf-7cf0b924d5ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'mounika6400@gmail.com\r\n'</defaultValue>
+      <description></description>
+      <id>4f0e63a6-2909-4dc0-b959-61ee7c31a2b0</id>
+      <masked>false</masked>
+      <name>email_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'329QzWJPArwniERTmAkaJA=='</defaultValue>
+      <description></description>
+      <id>52e510d3-8cf0-4357-9adf-7cf0b924d5ff</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

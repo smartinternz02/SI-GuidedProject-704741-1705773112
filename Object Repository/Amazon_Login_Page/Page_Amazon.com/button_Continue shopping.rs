@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue shopping</name>
+   <tag></tag>
+   <elementGuidId>03776dba-3fa6-42d7-ace6-8f792ef14436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa365189-96fe-4add-9ab6-918764dddd56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ea9a518e-ca27-4a7e-8065-bc9fbb71df6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text</value>
+      <webElementGuid>d72eda06-8ccf-41ff-928f-2c1c6fe3ad38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue shopping</value>
+      <webElementGuid>f18b3921-21a1-4917-807f-993513289c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;a-no-js&quot;]/body[1]/div[@class=&quot;a-container a-padding-double-large&quot;]/div[@class=&quot;a-row a-spacing-double-large&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;a-box a-color-offset-background&quot;]/div[@class=&quot;a-box-inner a-padding-extra-large&quot;]/form[1]/div[@class=&quot;a-section a-spacing-extra-large&quot;]/div[@class=&quot;a-row&quot;]/span[@class=&quot;a-button a-button-primary a-span12&quot;]/span[@class=&quot;a-button-inner&quot;]/button[@class=&quot;a-button-text&quot;]</value>
+      <webElementGuid>54dc1ec3-cc0f-4aaa-9077-6fe2a1207737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>fa2effb5-4199-4d9e-9244-2540d6d19ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>12bce988-1f31-47cd-b9d4-7af5dcd1029d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Continue shopping' or . = 'Continue shopping')]</value>
+      <webElementGuid>3810c41d-3e8b-4fde-bb22-6b498ed73897</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

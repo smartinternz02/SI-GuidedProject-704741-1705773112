@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding product to cart from Amazon website</description>
+   <name>TC_003_Add product to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9d4dc25-e935-4b3e-b066-b11715db0775</testCaseGuid>
+</TestCaseEntity>

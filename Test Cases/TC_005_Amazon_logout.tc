@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout step for Amazon website from katalon studio</description>
+   <name>TC_005_Amazon_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>942e783f-86b5-4cc3-826f-16de7b8aa493</testCaseGuid>
+</TestCaseEntity>

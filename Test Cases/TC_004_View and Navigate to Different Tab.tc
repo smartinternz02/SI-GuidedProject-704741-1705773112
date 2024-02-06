@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Viewing and Navigating to Different Departments from Amazon website in Katalon studio</description>
+   <name>TC_004_View and Navigate to Different Tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f217962b-893c-4ecc-88e6-a9e83810ee25</testCaseGuid>
+</TestCaseEntity>
